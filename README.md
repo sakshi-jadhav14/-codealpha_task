@@ -46,5 +46,5 @@ You can optionally save the portfolio summary to a text file.
 
 - Python 3.x  
 (No external libraries are required.)
-## ▶️ How to Run
+## How to Run
 1. Open a terminal and run: stock_tracker.py
